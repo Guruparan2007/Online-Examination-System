@@ -1,6 +1,6 @@
 # Online-Examination-System
-# Reg No:
-# Name:
+# Reg No: 212224220030
+# Name: GURUPARAN G
 # Date:
 
 
